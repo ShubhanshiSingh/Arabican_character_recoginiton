@@ -26,3 +26,6 @@ Plotly**
 
 **Project Goal:**
 The primary goal of this project was to build an accurate and reliable system for Arabican handwritten letter recognition, showcasing effective data analysis, model development, and validation techniques in a real-world application.
+
+
+**NOTE: Extract Dataset before use, Don't forget to change the url to dataset
