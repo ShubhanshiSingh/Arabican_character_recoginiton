@@ -10,7 +10,7 @@ Comprehensive Data Visualization: Utilized Matplotlib, Seaborn, and Plotly to pe
 
 **Rigorous Model Evaluation:** Implemented methods to visualize model accuracy and performance metrics, followed by rigorous testing on unseen data to validate the model's efficacy and generalization capabilities.
 
-**Data Handling: **Capable of processing and interpreting data from both raw image files and structured CSV formats.
+**Data Handling:** Capable of processing and interpreting data from both raw image files and structured CSV formats.
 
 **Technologies Used:
 |
